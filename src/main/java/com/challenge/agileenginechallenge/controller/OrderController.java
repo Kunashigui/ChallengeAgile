@@ -4,7 +4,6 @@ import com.challenge.agileenginechallenge.dto.OrderDTO;
 import com.challenge.agileenginechallenge.service.OrderService;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.tags.Tag;
-import io.swagger.v3.oas.models.annotations.OpenAPI30;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 
